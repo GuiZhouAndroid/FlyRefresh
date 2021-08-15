@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_height">240dp</dimen><!--180dp-->
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="title_activity_style_fly_refresh">纸飞机</string>
+</resources>
